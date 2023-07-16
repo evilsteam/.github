@@ -23,11 +23,11 @@ $ echo -ne "\n${A_LBLUE}${A_BOLD}Thank you!${A_RESET}\n";
 ```shell
 # Please contact us via email or discord. 
 # WARNING -- site not live yet!
-$ curl -sL https://evilsteam.net/contact | grep -oP '(?<=mailto:).*(?=")' 
+$ curl -sL https://evilsteam.team/contact | grep -oP '(?<=mailto:).*(?=")' 
 # or
-$ curl -sL https://evilsteam.net/contact | grep -oP '(?<=href="discord).*(?=")' 
+$ curl -sL https://evilsteam.team/contact | grep -oP '(?<=href="discord).*(?=")' 
 # finally
 $ echo -ne "\n${A_RED}${A_BOLD}Welcome.${A_RESET}\n";
 ```
 
-<sub><i>last updated </i><code>2023/03/21</code></sub>
+<sub><i>last updated </i><code>2023/07/16</code></sub>
