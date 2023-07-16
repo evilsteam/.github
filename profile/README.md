@@ -2,8 +2,10 @@
 
 <img src="https://i.imgur.com/ZWHe7mr.png" title="ESN bot" width="300rem"/>
 
-### `E` `V` `I` `L` `S` `T` `E` `A` `M`
-#### `T` `E` `A` `M` 〰️ `C` `L` `U` `B` 〰️ `N` `E` `T`
+### 🔴 `E` `V` `I` `L` `S` `T` `E` `A` `M` ⚫️  
+#### ⚫️ `T` `E` `A` `M`  🔴 
+
+<br />  <br />  
 
 </div>
 
